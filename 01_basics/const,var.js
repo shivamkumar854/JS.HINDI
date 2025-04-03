@@ -2,7 +2,8 @@ const accountId ="12345"
 let accountEmail="shivam@gmail.com"
 let accountPassword="123456"
 accountCity="Delhi"
- 
+  accountEmail="shivam@gmail"
+
  
 accountEmail="sk@gmail.com"
 accountPassword="26534"
